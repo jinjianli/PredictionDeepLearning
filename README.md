@@ -1,4 +1,4 @@
-# PredictionDeepLearning
+# Application of Long Short-Term Memory Deep Learning for traffic flow prediction 
 This project applies Deep Learning Algorithm (LSTM) to predict traffic flow.
 
 Firstly, we input and range the traffic flow data from local transportation management.
